@@ -42,4 +42,4 @@ notify:
         # canax
         - url: https://webhooks.gitter.im/e/c8ff44f50de935adf880
         # canax/content-md
-        #- url: https://webhooks.gitter.im/e/7a5e4ea6070af520503c
+        - url: https://webhooks.gitter.im/e/d2fd8be761e559339533

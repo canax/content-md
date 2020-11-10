@@ -25,10 +25,8 @@ The following classes, interfaces and traits exists.
 
 | Class, interface, trait               | Description |
 |---------------------------------------|-------------|
-| `Anax\Commons\AppInjectableInterface` | For classes that wants to be injectable by `$app`. |
-| `Anax\Commons\AppInjectableTrait`     | Implementation of the interface. |
-| `Anax\Commons\ContainerInjectableInterface` | For classes that wants to be injectable by `$di`. |
-| `Anax\Commons\ContainerInjectableTrait`     | Implementation of the interface. |
+| `Anax\ContentMarkdown\ContentMarkdown` | ... |
+| `Anax\ContentMarkdown\ContentMarkdownController` | ... |
 
 
 
