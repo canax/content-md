@@ -1,0 +1,30 @@
+{
+    "name" : "anax/content-md",
+    "description": "Anax Content Markdown module, web content from markdown files.",
+    "homepage": "https://github.com/canax/content-md",
+    "license": "MIT",
+    "keywords": ["Anax", "Framework"],
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "mos@dbwebb.se"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/canax/content-md/issues",
+        "source": "https://github.com/canax/content-md"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "anax/di": "^2.0.4",
+        "phpunit/phpunit": "^9",
+        "phpstan/phpstan": "^0.12"
+    }
+}
