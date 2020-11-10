@@ -23,6 +23,7 @@
         "php": "^7.4"
     },
     "require-dev": {
+        "anax/commons": "^2.0.14",
         "anax/di": "^2.0.4",
         "phpunit/phpunit": "^9",
         "phpstan/phpstan": "^0.12"
